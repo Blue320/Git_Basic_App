@@ -4,4 +4,4 @@
 * git commit
 * git push
 * git clone
-* git pull 과 ferch
+* git pull 과 fetch
